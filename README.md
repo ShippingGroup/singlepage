@@ -1,6 +1,6 @@
 ## Bienvenido al espacio GitHub de ShippingGroup
 
-You can use the [editor on GitHub](https://github.com/ShippingGroup/singlepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+¿Qué es SinglePage? [ver DEMO](http://www.singlepage.ml/) es un sistema web pensado para uso institucional. Un sitio web de una sola página.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
